@@ -1,0 +1,1 @@
+# delete-wechat-nonfriends
